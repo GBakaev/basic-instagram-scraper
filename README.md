@@ -1,7 +1,7 @@
 # BASIC-INSTAGRAM-SCRAPER
 
 This projects aims to make a basic [Instagram](https://instagram.com) scraper that will automatically get the most useful account information.
-It can take in either a single usersname or a list of usernames.
+It can take in either a single username or a list of usernames.
 
 ## Credits
 
